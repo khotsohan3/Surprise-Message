@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, sans-serif;
+    text-align: center;
+    background-color: pink;
+    padding: 20px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background: red;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background: darkred;
+}
